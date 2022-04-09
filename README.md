@@ -1,18 +1,3 @@
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josias Martins</h1> -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=josiasmartinso&color=yellow" alt="Profile views" /> </p> -->
-
-<!-- <h2 align="center">Front End Developer</h2>
-<h2 align="center">Analise e desenvolvimento de sistema (studing)</h2>
-<p align="center" style="border:none">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=josiasmartins.josiasmartins&left_color=grey&right_color=blue" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/josiasmartins/josiasmartins.svg" />
-</p> -->
-
-
-<!-- <br><br> -->
-
-<!-- ## 🛠 &nbsp;Tech Stack -->
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Josias Martins</h1>
  <p align="center"><br/>
 
@@ -42,14 +27,14 @@
 
 <br/><br/>
 
-
-
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=josiasmartins&show_icons=true&theme=vision-friendly-dark" alt="Josias Martins's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasmartins&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="josiasmartins's most languages"/>
+  <p>
+<!-- <img width="530em"  src="https://github-readme-stats.vercel.app/api?username=josiasmartins&show_icons=true&theme=vision-friendly-dark" alt="Josias Martins's stats"/> -->
+<img width="530em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasmartins&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="josiasmartins's most languages"/>
 </p>
+  
+  <h4>Languages</h4>
+  <p align="left">
+  
+  </p>
+
 <br><br>
