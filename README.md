@@ -1,9 +1,38 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josias Martins</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josiasmartinso&color=yellow" alt="Profile views" /> </p>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Josias Martins</h1> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=josiasmartinso&color=yellow" alt="Profile views" /> </p> -->
 
-<br><br>
+<!-- <h2 align="center">Front End Developer</h2>
+<h2 align="center">Analise e desenvolvimento de sistema (studing)</h2>
+<p align="center" style="border:none">
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=josiasmartins.josiasmartins&left_color=grey&right_color=blue" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/josiasmartins/josiasmartins.svg" />
+</p> -->
 
-## 🛠 &nbsp;Tech Stack
+
+<!-- <br><br> -->
+
+<!-- ## 🛠 &nbsp;Tech Stack -->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Josias Martins</h1>
+ <p align="center"><br/>
+
+  <a href="https://www.linkedin.com/in/josiasmartins/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:josiasmartinscaitano@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
+  </a>
+
+  <a href="mailto:josiasmartinscaitano@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white">
+  </a>
+
+</p>
+
+<h3 align="center">Front end developer from Brazil</h3>
+<h3 align="center">Technologist in System Analysis and Development (studyng)
+</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
