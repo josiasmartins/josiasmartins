@@ -32,9 +32,10 @@
 <img width="530em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasmartins&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="josiasmartins's most languages"/>
 </p>
   
-  <h4>Languages</h4>
+  <h4 align="center">Languages</h4>
   <p align="left">
-  
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </p>
 
 <br><br>
