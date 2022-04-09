@@ -32,7 +32,7 @@
 <img width="530em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasmartins&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="josiasmartins's most languages"/>
 </p>
   
-  <h4 align="center">Languages and Platforms</h4>
+  <h4 align="center">Languages, Platforms and Version Control System</h4>
   <p align="center">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -41,6 +41,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
   </p>
   
