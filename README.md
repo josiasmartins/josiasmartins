@@ -66,11 +66,9 @@
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    
-   
-   
-   
+   <br>
    <h3 align="center">link para os repositórios que possui uma demo do projeto</h3>
-   <a href="https://github.com/stars/josiasmartins/lists/my-stack" algn="center"><button style="background=violet; border: 1px solid blue" align="center">repo com gif</button></a>
+   <div align="center">
+     <a href="https://github.com/stars/josiasmartins/lists/my-stack"><button>repo com git</buttom></a>
+  </div>
    
-   [Named Link](https://github.com/stars/josiasmartins/lists/my-stack/ "Named link title")
-   ![button](https://github.com/stars/josiasmartins/lists/my-stack)
