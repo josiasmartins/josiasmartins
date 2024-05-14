@@ -72,7 +72,8 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   </p>
   
-   ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg) -->
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/josiasmartins/josiasmartins/output/github-contribution-grid-snake.svg" />
 
    <br>
    <h3 align="center">link para os repositórios que possui uma demostração do projeto</h3>
