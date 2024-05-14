@@ -73,7 +73,7 @@
   </p>
   
   <!-- ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg) -->
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/josiasmartins/josiasmartins/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/josiasmartins/josiasmartins/output/github-contribution-grid-snake-dark.svg" />
 
    <br>
    <h3 align="center">link para os repositórios que possui uma demostração do projeto</h3>
