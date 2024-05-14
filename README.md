@@ -15,8 +15,12 @@
 
 </p>
 
+<h3 align="center">
+ <a href="http://josiasmartins.com/">website portal josiasmartins</a>
+</h3>
+
 <h3 align="center">Front end developer from Brazil</h3>
-<h3 align="center">Technologist in System Analysis and Development (studying)
+<h3 align="center">Technologist in System Analysis and Development
 </h3>
 
 
